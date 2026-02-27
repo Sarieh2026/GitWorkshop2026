@@ -1,2 +1,4 @@
 # GitWorkshop readme
-kmokmko
+# kmokmko
+
+library(class)
